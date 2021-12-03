@@ -2,11 +2,11 @@
 
 ## Funcionalidades 
 
-- [] Gerar html através de arquivos markdown
-- [] Arquivo de layout comum a todas as páginas (header, content, footer)
-- [] Partials
-- [] Configurações globais: nome do site, descrição, GA, etc
-- [] Ler JSON para tudo que é lista
+- [ ] Gerar html através de arquivos markdown
+- [ ] Arquivo de layout comum a todas as páginas (header, content, footer)
+- [ ] Partials
+- [ ] Configurações globais: nome do site, descrição, GA, etc
+- [ ] Ler JSON para tudo que é lista
 
 ## Referências
 
